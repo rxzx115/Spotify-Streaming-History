@@ -1,4 +1,4 @@
-# Spotify_Streaming_History
+# Spotify-Streaming-History
 
 ## Objective
 To understand user preferences and consumption patterns to increase user satisfaction and platform retention
